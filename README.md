@@ -69,9 +69,3 @@ The Event Management System is a comprehensive solution designed to simplify and
 5. Create a new Pull Request
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
