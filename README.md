@@ -1,6 +1,9 @@
 Event Management System-The Anayltics Avengers.
+
 Team Members:- Anita Choudhary(Captain),Tanvi Suryavanshi, Siddhi Malwadkar, Aditi Sandbhor, Vinita Duble and Ambika Kalshetty.
+
 Trainer Name:- Mr.Yogesh Murumkar.
+
 College Name:- K.B.Joshi Institute of Information Technology,Pune.
 
 Project Objective / Aim: To Create a user-friendly Event Management System (EMS) allowing users to easily manage events. Users can create, book and cancel events, along with their bookings. The system securely stores user data and even details in a database. EMS aims to develop an equipped with an easy-to-use user interface, catering to the various needs of event organizers and attendees. This system will revolutionize event planning, booking and management by providing a seamless digital platform for users to interact with.
