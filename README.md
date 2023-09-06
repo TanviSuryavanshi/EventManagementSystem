@@ -11,7 +11,6 @@ The Event Management System is a comprehensive solution designed to simplify and
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ---
 
