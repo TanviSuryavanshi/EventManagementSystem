@@ -8,9 +8,8 @@ The Event Management System is a comprehensive solution designed to simplify and
 
 ## Table of Contents
 1. [Features](#features)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
+2. [Usage](#usage)
+3. [Contributing](#contributing)
 
 ---
 
